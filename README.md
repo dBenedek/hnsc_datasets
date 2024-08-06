@@ -47,3 +47,9 @@
 - [GSE164690](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164690)
 - 134606 cells from 18 patients (12 HPV- and 6 HPV+)
 - Cells are pre-sorted (CD45-, CD45+, PBL)
+
+### Bill et al. cohort
+
+- [GSE234933](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234933)
+- 52 samples: 24 primary tumors, 16 local recurrences, 12 distant metastasis
+- 37 HPV- and 15 HPV+ tumors 
