@@ -53,3 +53,11 @@
 - [GSE234933](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234933)
 - 52 samples: 24 primary tumors, 16 local recurrences, 12 distant metastasis
 - 37 HPV- and 15 HPV+ tumors 
+
+## Cell line data
+
+#### 	Wiechec et. al data set
+
+- [GSE178153](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178153)    
+- Expression data of HNSCC cell lines grown without and with patient-matched CAFs in 2D    
+- 5 cell lines grown with CAFs, and 5 cell lines grown without CAFs    
