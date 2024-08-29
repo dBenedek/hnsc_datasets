@@ -36,6 +36,11 @@
 
 ## scRNA-seq
 
+### Curated Cancer Cell Atlas (Weizmann Institute of Science)
+
+- [Website](https://www.weizmann.ac.il/sites/3CA/head-and-neck)
+- 4 scRNAseq HNSC cohorts are included
+
 ### Puram et al. cohort
 
 - [GSE103322](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103322)
