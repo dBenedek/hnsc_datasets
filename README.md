@@ -62,7 +62,13 @@
 
 - [GSE234933](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234933)
 - 52 samples: 24 primary tumors, 16 local recurrences, 12 distant metastasis
-- 37 HPV- and 15 HPV+ tumors 
+- 37 HPV- and 15 HPV+ tumors
+
+### Choi et al. cohort 
+
+- [GSE181919](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181919)
+- 37 samples: 9 normal tissue, 4 leukoplakia, 20 primary cancers, 4 metastatic lymph node cancers
+- HPV- and HPV+ tumors
 
 ## Cell line data
 
