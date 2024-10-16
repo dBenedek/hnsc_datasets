@@ -10,7 +10,7 @@
 
 ### LMU-KKG 08-13 and 13-16
 
-- [GSE205308](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205308) (08-13) and [GSE235223](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235223) (13-16, token: ufcjsgmyzhmdpif)
+- [GSE205308](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205308) (08-13) and [GSE235223](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235223) (13-16)
 - n = 72 + 134
 - Adjuvantly treated tumors
 - 3' Quantseq expression data
