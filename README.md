@@ -70,6 +70,11 @@
 - 37 samples: 9 normal tissue, 4 leukoplakia, 20 primary cancers, 4 metastatic lymph node cancers
 - HPV- and HPV+ tumors
 
+### Wickström et al. cohort
+
+- [GSE252265](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
+- 8 tongue carcinoma patients
+
 ## Cell line data
 
 #### 	Wiechec et. al data set
