@@ -71,6 +71,13 @@
 - 37 samples: 9 normal tissue, 4 leukoplakia, 20 primary cancers, 4 metastatic lymph node cancers
 - HPV- and HPV+ tumors
 
+### Luoma et al. cohort
+
+- [GSE200996](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200996)
+- Locally advanced OSCC
+- Samples from 30 patients from 2 different cohorts (anti-PD-1 monotherapy, anti-PD-1+anti-CTLA-4 combination therapy)
+- PBMC, tumor 
+
 ### Wickström et al. cohort
 
 - [GSE252265](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
