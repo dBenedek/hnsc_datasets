@@ -37,7 +37,8 @@
 ### Foy et al. cohorts
 
 - [Datasets for gene expression profiles of head and neck squamous cell carcinoma and lung cancer treated or not by PD1/PD-L1 inhibitors](https://doi.org/10.1016/j.dib.2022.108556)
-- 5 data sets, details in the publication
+- Targeted sequencing
+- 2 HNSC data sets, details in the publication
 
 ## scRNA-seq
 
