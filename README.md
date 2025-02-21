@@ -80,7 +80,7 @@
 
 ### Jenkins et al. cohort
 
-- [Data location](https://cellxgene.cziscience.com/collections/3c34e6f1-6827-47dd-8e19-9edcd461893f)
+- [Data location](https://cellxgene.cziscience.com/collections/3c34e6f1-6827-47dd-8e19-9edcd461893f), [processed data](https://zenodo.org/records/14284357)
 - Normal and oropharynx squamous cell carcinoma
 - 7 HPV+ tumors (31,386 cells), 3 HPV- tumors (19,814 cells) and 7 matched-normal mucosa (31,644 cells)
 - [Publication](https://doi.org/10.1186/s12943-024-02191-9)
