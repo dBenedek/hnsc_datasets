@@ -78,10 +78,25 @@
 - Samples from 30 patients from 2 different cohorts (anti-PD-1 monotherapy, anti-PD-1+anti-CTLA-4 combination therapy)
 - PBMC, tumor 
 
+### Jenkins et al. cohort
+
+- [Data location](https://cellxgene.cziscience.com/collections/3c34e6f1-6827-47dd-8e19-9edcd461893f)
+- Normal and oropharynx squamous cell carcinoma
+- 7 HPV+ tumors (31,386 cells), 3 HPV- tumors (19,814 cells) and 7 matched-normal mucosa (31,644 cells)
+- [Publication](https://doi.org/10.1186/s12943-024-02191-9)
+
 ### Wickström et al. cohort
 
 - [GSE252265](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
 - 8 tongue carcinoma patients
+
+## Spatial RNA-seq data
+
+### Jenkins et al. cohort
+
+- [Data location]([Jenkins et al. cohort](https://zenodo.org/records/14284038))
+- 13 samples (HPV- and HPV+ tumors)
+- scRNAseq available (see above)
 
 ## Cell line data
 
