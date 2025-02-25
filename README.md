@@ -98,6 +98,12 @@
 - 13 samples (HPV- and HPV+ tumors)
 - scRNAseq available (see above)
 
+### Arora et al. cohort
+
+- [GSE208253](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE208253)
+- [Processed data](https://figshare.com/articles/dataset/Spatial_transcriptomics_reveals_distinct_and_conserved_tumor_core_and_edge_architectures_that_predict_survival_and_targeted_therapy_response_/20304456/1)
+- 12 samples from 10 HPV- OSCC patients
+
 ## Cell line data
 
 #### 	Wiechec et. al data set
