@@ -94,7 +94,7 @@
 
 ### Jenkins et al. cohort
 
-- [Data location]([Jenkins et al. cohort](https://zenodo.org/records/14284038))
+- [Data location](https://zenodo.org/records/14284038))
 - 13 samples (HPV- and HPV+ tumors)
 - scRNAseq available (see above)
 
