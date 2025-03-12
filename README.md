@@ -40,6 +40,11 @@
 - Targeted sequencing
 - 2 HNSC data sets, details in the publication
 
+### Waas et al. cohort
+
+- [EGAS50000000714](https://ega-archive.org/datasets/EGAD50000000995)
+- Bulk RNAseq of 88 HPV-neg. HNSCC patients and 45 paired patient-derived xenograft samples that successfully engrafted in mice
+
 ## scRNA-seq
 
 ### Curated Cancer Cell Atlas (Weizmann Institute of Science)
