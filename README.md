@@ -45,6 +45,12 @@
 - [EGAS50000000714](https://ega-archive.org/datasets/EGAD50000000995)
 - Bulk RNAseq of 88 HPV-neg. HNSCC patients and 45 paired patient-derived xenograft samples that successfully engrafted in mice
 
+### Lin et al. cohort
+
+- [GSE274788](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274788)
+- Bulk RNAseq of isolated CD8+ T lymphocytes
+- Cells from healthy individuals or from hypopharyngeal squamous cell carcinoma patients (irradiated or untreated)
+
 ## scRNA-seq
 
 ### Curated Cancer Cell Atlas (Weizmann Institute of Science)
