@@ -51,6 +51,12 @@
 - Bulk RNAseq of isolated CD8+ T lymphocytes
 - Cells from healthy individuals or from hypopharyngeal squamous cell carcinoma patients (irradiated or untreated)
 
+### Obradovic et al. cohort
+
+- All the files are [here](10.17632/yk8wj7xgdg.1) or on [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195832)
+- Bulk RNAseq of locally advanced HNSCCs with nivolumab (anti-PD1) treatment: 28 patients with pre- and post-treatment data
+- Treatment response data available
+
 ## scRNA-seq
 
 ### Curated Cancer Cell Atlas (Weizmann Institute of Science)
@@ -100,6 +106,12 @@
 
 - [GSE252265](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
 - 8 tongue carcinoma patients
+
+### Obradovic et al. cohort
+
+- All the files are [here](10.17632/yk8wj7xgdg.1) or on [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195832)
+- Locally advanced HNSCCs with nivolumab (anti-PD1) treatment: 4 patients with pre- and post-treatment data
+- Treatment response data available
 
 ## Spatial RNA-seq data
 
