@@ -57,6 +57,18 @@
 - Bulk RNAseq of locally advanced HNSCCs with nivolumab (anti-PD1) treatment: 28 patients with pre- and post-treatment data
 - Treatment response data available
 
+### Gao et al. cohort
+
+- [GSE142083](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE142083)
+- Bulk RNAseq of 52 laryngeal squamous cell carcinoma (LSCC) and 53 paired adjacent normal mucosa tissues
+
+### Cheng et al. cohort
+
+- [GSE178537](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178537)
+- 21 normal oral epithelia, 35 primary tumors, and 9 metastatic tumors from 21 patients (HNSCC)
+- Sequenced tissues: normal part, intra-tumor part, invasive-front tumor part, lymph node metastasis tumor part
+- Patient-level information [here](https://jitc.bmj.com/content/jitc/10/8/e004832/DC3/embed/inline-supplementary-material-3.xlsx)
+
 ## scRNA-seq
 
 ### Curated Cancer Cell Atlas (Weizmann Institute of Science)
@@ -107,6 +119,11 @@
 - [GSE252265](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
 - 8 tongue carcinoma patients
 
+### Greenwald et al. dataset
+
+- [GSE157220](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157220)
+- 198 cancer cell lines by single-cell RNA-seq with 10X chromium (19 HNSC cell lines)
+- 
 ### Obradovic et al. cohort
 
 - All the files are [here](10.17632/yk8wj7xgdg.1) or on [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195832)
