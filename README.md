@@ -123,7 +123,7 @@
 
 - [GSE157220](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157220)
 - 198 cancer cell lines by single-cell RNA-seq with 10X chromium (19 HNSC cell lines)
-- 
+  
 ### Obradovic et al. cohort
 
 - All the files are [here](10.17632/yk8wj7xgdg.1) or on [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195832)
