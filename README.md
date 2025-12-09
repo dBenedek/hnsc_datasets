@@ -144,6 +144,16 @@
 - [Processed data](https://figshare.com/articles/dataset/Spatial_transcriptomics_reveals_distinct_and_conserved_tumor_core_and_edge_architectures_that_predict_survival_and_targeted_therapy_response_/20304456/1)
 - 12 samples from 10 HPV- OSCC patients
 
+### Cheng et al. cohort 
+
+- [GSE181300](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181300)
+- HNSCC primary tumor sections from head and neck squamous cell carcinoma patients sequenced with 10x Genomics Visium
+
+### Sun et al. cohort
+
+- [OMIX009480](https://ngdc.cncb.ac.cn/omix/release/OMIX009480?utm_source=chatgpt.com)
+- scRNA-seq of whole tumor cells (n=14) and paired scRNA-seq combining single-cell T/B cell receptor sequencing (scTCR/BCR-seq, n=13) of CD45+ cells in tumor, as well as spatial transcriptomics of tumor tissue sourced from HNSCC (n=10)
+
 ## Cell line data
 
 #### 	Wiechec et. al data set
