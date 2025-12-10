@@ -76,6 +76,13 @@
 - [Website](https://www.weizmann.ac.il/sites/3CA/head-and-neck)
 - 4 scRNAseq HNSC cohorts are included
 
+### Quah et al. cohort 
+
+- [GSE188737](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188737)
+- 14 treatment-naïve patients with locally advanced, HPV-negative HNSCC from primary and cervical lymph nodes
+- 7 pairs were processed for scRNAseq and single-cell T-cell receptor sequencing (scTCRseq)
+- Basic clinical data available in the original publication
+
 ### Puram et al. cohort
 
 - [GSE103322](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103322)
@@ -99,6 +106,11 @@
 - [GSE181919](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181919)
 - 37 samples: 9 normal tissue, 4 leukoplakia, 20 primary cancers, 4 metastatic lymph node cancers
 - HPV- and HPV+ tumors
+
+### Peng et al. cohort
+
+- [GSE172577](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE172577)
+- 6 HPV-negative HNSCC patients
 
 ### Luoma et al. cohort
 
@@ -129,6 +141,12 @@
 - All the files are [here](10.17632/yk8wj7xgdg.1) or on [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195832)
 - Locally advanced HNSCCs with nivolumab (anti-PD1) treatment: 4 patients with pre- and post-treatment data
 - Treatment response data available
+
+### Cillo et al. cohort
+
+- [GSE139324](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139324)
+- 6 HPV-negative HNSCC patients, only CD45+ cells
+- Total of 63 samples, 26 samples paired peripheral blood mononuclear cells and tumor infiltrating immune cells from HNSCC patients (18 HPV- and 8 HPV+), 6 peripheral blood mononuclear cells from healthy donors, and 5 tissue resident immune cells from healthy donor tonsils
 
 ## Spatial RNA-seq data
 
