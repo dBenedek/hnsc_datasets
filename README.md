@@ -148,6 +148,12 @@
 - 6 HPV-negative HNSCC patients, only CD45+ cells
 - Total of 63 samples, 26 samples paired peripheral blood mononuclear cells and tumor infiltrating immune cells from HNSCC patients (18 HPV- and 8 HPV+), 6 peripheral blood mononuclear cells from healthy donors, and 5 tissue resident immune cells from healthy donor tonsils
 
+### Mints et al. cohort
+
+-[GSE301741](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE301741)
+- 16 HPV-negative, LA-HNSCC cases
+- Neoadjuvant pembrolizumab treatment, pre- and post-treatment samples
+
 ## Spatial RNA-seq data
 
 ### Jenkins et al. cohort
