@@ -150,7 +150,7 @@
 
 ### Mints et al. cohort
 
--[GSE301741](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE301741)
+- [GSE301741](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE301741)
 - 16 HPV-negative, LA-HNSCC cases
 - Neoadjuvant pembrolizumab treatment, pre- and post-treatment samples
 
