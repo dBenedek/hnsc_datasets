@@ -112,6 +112,12 @@
 - [GSE172577](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE172577)
 - 6 HPV-negative HNSCC patients
 
+### Mints et al.
+
+- [GSE301741](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE301741)
+- 17 LA-HNSCC patients
+- Before and after treatment samples with neoadjuvant pembrolizumab
+
 ### Luoma et al. cohort
 
 - [GSE200996](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200996)
