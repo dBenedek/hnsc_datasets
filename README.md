@@ -40,6 +40,12 @@
 - Targeted sequencing
 - 2 HNSC data sets, details in the publication
 
+### Liu et al. cohort
+
+- [GSE179730](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE179730)
+- 12 patients with high-risk, resectable oral cavity HNSCC
+- anti-PD1 therapy, pre-/post-treatment, and recurrent samples are available
+
 ### Waas et al. cohort
 
 - [EGAS50000000714](https://ega-archive.org/datasets/EGAD50000000995)
