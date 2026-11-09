@@ -125,6 +125,17 @@
 - Samples from 30 patients from 2 different cohorts (anti-PD-1 monotherapy, anti-PD-1+anti-CTLA-4 combination therapy)
 - PBMC, tumor 
 
+### Franken et al. cohort
+
+- [https://lambrechtslab.sites.vib.be/en/hnscc](https://lambrechtslab.sites.vib.be/en/hnscc)
+- 20 LA-HNSCC samples of the oral cavity with ICI treatment
+
+### van der Leun (IMCISION)
+
+- [GSE232240](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232240)
+- 18 LA-HNSCC patients with anti-PD-1 and anti-CTLA4 treatment
+- scRNAseq and TCRseq available
+
 ### Jenkins et al. cohort
 
 - [Data location](https://cellxgene.cziscience.com/collections/3c34e6f1-6827-47dd-8e19-9edcd461893f), [processed data](https://zenodo.org/records/14284357)
