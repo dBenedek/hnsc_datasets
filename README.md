@@ -201,6 +201,17 @@
 - [OMIX009480](https://ngdc.cncb.ac.cn/omix/release/OMIX009480?utm_source=chatgpt.com)
 - scRNA-seq of whole tumor cells (n=14) and paired scRNA-seq combining single-cell T/B cell receptor sequencing (scTCR/BCR-seq, n=13) of CD45+ cells in tumor, as well as spatial transcriptomics of tumor tissue sourced from HNSCC (n=10)
 
+### Golfinos-Owen et al. cohort (CoxMX)
+
+- [https://datadryad.org/dataset/doi:10.5061/dryad.n2z34tn7x](https://datadryad.org/dataset/doi:10.5061/dryad.n2z34tn7x)
+- Bruker Spatial (formerly Nanostring) CosMX SMI single-cell spatial profiling data from 68 tumor microarray cores from 23 HNSCC patients
+- ICI treated cases
+
+### Golfinos-Owen et al. cohort (Visium)
+
+- [GSE301720](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE301720)
+- 8 HNSCC cases with ICI treatment
+
 ## Cell line data
 
 #### 	Wiechec et. al data set
